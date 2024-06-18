@@ -7,12 +7,12 @@
     </option>
     <option name="customThemeState">
       <MTCustomThemeConfigState>
-        <option name="colorScheme" value="Dracula (Material)" />
+        <option name="colorScheme" value="Atom One Dark (Material)" />
       </MTCustomThemeConfigState>
     </option>
     <option name="lightCustomThemeState">
       <MTLightCustomThemeConfigState>
-        <option name="colorScheme" value="Dracula (Material)" />
+        <option name="colorScheme" value="Atom One Dark (Material)" />
       </MTLightCustomThemeConfigState>
     </option>
     <option name="metadata">
@@ -20,6 +20,7 @@
         <option name="pristineConfig" value="false" />
         <option name="userId" value="-5816d89d:190123e374d:-8000" />
         <option name="version" value="9.3.1" />
+        <option name="wizardShown" value="true" />
       </MTMetadataState>
     </option>
     <option name="projectTreeState">
@@ -29,7 +30,7 @@
     </option>
     <option name="themeState">
       <MTThemeConfigState>
-        <option name="selectedThemeName" value="ONE_DARK" />
+        <option name="selectedThemeName" value="ONE_LIGHT" />
       </MTThemeConfigState>
     </option>
   </component>
