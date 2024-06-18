@@ -2,17 +2,17 @@
   <component name="MaterialThemeNewConfig">
     <option name="accentState">
       <MTAccentConfigState>
-        <option name="accentColorHex" value="5294e2" />
+        <option name="accentColorHex" value="2979ff" />
       </MTAccentConfigState>
     </option>
     <option name="customThemeState">
       <MTCustomThemeConfigState>
-        <option name="colorScheme" value="Dracula (Material)" />
+        <option name="colorScheme" value="Atom One Dark (Material)" />
       </MTCustomThemeConfigState>
     </option>
     <option name="lightCustomThemeState">
       <MTLightCustomThemeConfigState>
-        <option name="colorScheme" value="Dracula (Material)" />
+        <option name="colorScheme" value="Atom One Dark (Material)" />
       </MTLightCustomThemeConfigState>
     </option>
     <option name="metadata">
@@ -30,7 +30,7 @@
     </option>
     <option name="themeState">
       <MTThemeConfigState>
-        <option name="selectedThemeName" value="ARC_DARK" />
+        <option name="selectedThemeName" value="ONE_LIGHT" />
       </MTThemeConfigState>
     </option>
   </component>
