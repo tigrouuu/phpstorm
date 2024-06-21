@@ -35,19 +35,4 @@
     <option name="FILESTATUS_addedOutside" value="57b6c2" />
     <option name="FILESTATUS_modifiedOutside" value="4078f2" />
   </colors>
-  <attributes>
-    <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="c3d3de" />
-      </value>
-    </option>
-    <option name="MATCHED_BRACE_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="383d48" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="557ecf" />
-        <option name="EFFECT_TYPE" value="4" />
-      </value>
-    </option>
-  </attributes>
 </scheme>
