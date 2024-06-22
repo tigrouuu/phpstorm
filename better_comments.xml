@@ -1,0 +1,12 @@
+<application>
+  <component name="BetterCommentsSettings">
+    <tagColors>
+      <tagColor tag="!" color="#FF2D00" />
+      <tagColor tag="?" color="#3498DB" />
+      <tagColor tag="todo" color="#FF8C00" />
+      <tagColor tag="*" color="#98C379" />
+      <tagColor tag="@" color="#3498DB" />
+      <tagColor tag="//" color="#474747" />
+    </tagColors>
+  </component>
+</application>
