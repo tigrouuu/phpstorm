@@ -1,5 +1,8 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="File '…\public\appvilla\js\tiny-slider.js'" />
+    <option name="defaultScopeName" value="File '…\public\appvilla\js\tiny-slider.js'" />
+    <option name="SEARCH_SCOPE" value="File '…\public\appvilla\js\tiny-slider.js'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
